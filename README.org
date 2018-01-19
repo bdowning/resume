@@ -93,7 +93,7 @@ Primary technologies:  Common Lisp, PostgreSQL
 
 *** 1997--2000:  Wolfram Research, Inc.
 
-/Unix System Administrator; MathSouce Administrator/
+/Unix System Administrator; MathSource Administrator/
 
 - Support and administration for a very heterogeneous collection of
   Unix machines.
