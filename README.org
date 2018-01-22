@@ -166,11 +166,23 @@ Technology-based accomplishments include:
 
 *** Personal Projects
 
+- lj-cdefdb:  https://github.com/bdowning/lj-cdefdb
+- ljev:  https://github.com/bdowning/ljev
+- retween:  https://github.com/bdowning/retween
+- sql-assassin:  https://github.com/bdowning/sql-assassin
+
+
 - Personal Github:  https://github.com/bdowning/
 - MRM Github:  https://github.com/monticello-railway-museum/
 
 *** Other Contributions
 
-- SBCL:  http://www.sbcl.org/
 - Git:  https://git-scm.com/
+- SBCL:  http://www.sbcl.org/
+- SLIME:  https://github.com/slime/slime
+- ljsyscall:  https://github.com/justincormack/ljsyscall
+- lua-ev:  https://github.com/brimworks/lua-ev
+- rekapi:  https://github.com/jeremyckahn/rekapi
+
+
 - Numerous bugfixes and miscellany in other open-source software.
