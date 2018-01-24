@@ -138,7 +138,7 @@ Technology-based accomplishments include:
     addressable LEDs for deluxe-class railcar.
   - Design and assembly of circuit boards and power distribution to
     drive the above.
-  - Conception and implementation of in-band inaudable timecode
+  - Conception and implementation of in-band inaudible timecode
     transmitted with program music over train-wide PA, and software to
     extract timestamp.
   - Implementation of software to "play back" in realtime the
