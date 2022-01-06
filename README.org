@@ -12,7 +12,13 @@ experience/
 
 ** Professional Work
 
-*** 2012--present:  Independant Software Contracting
+*** 2020--present:  Granular
+
+/Principal Software Engineer/
+
+TODO
+
+*** 2012--2018:  Independant Software Contracting
 
 Various software development tasks, including the following:
 
@@ -108,7 +114,7 @@ Primary technologies:  Common Lisp, PostgreSQL
 
 *** 1992--present:  Monticello Railway Museum
 
-/President:  2017--present; Board Chairman:  2015--2017; Director:  2005--2012, 2014--2017/
+/President:  2017--2020; Board Chairman:  2015--2017; Director:  2005--2012, 2014--2017/
 
 Involvement with many activities at this not-for-profit educational
 organization located in Monticello, IL, including train service,
