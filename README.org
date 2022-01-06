@@ -172,10 +172,13 @@ Technology-based accomplishments include:
 
 *** Personal Projects
 
+- sql-athame:  https://github.com/bdowning/sql-athame
+- opentracing-compose:  https://github.com/bdowning/opentracing-compose
 - lj-cdefdb:  https://github.com/bdowning/lj-cdefdb
 - ljev:  https://github.com/bdowning/ljev
 - retween:  https://github.com/bdowning/retween
 - sql-assassin:  https://github.com/bdowning/sql-assassin
+- liter:  https://github.com/bdowning/liter
 
 
 - Personal Github:  https://github.com/bdowning/
