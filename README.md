@@ -12,13 +12,19 @@ experience*
 
 ## Professional Work
 
-### 2022–present: Paradromics
+### 2022: Paradromics
 
 *Principal Software Engineer*
 
 Developed software in support of brain computer interfaces.
 
-- TODO
+- Provided support for Rust-based custom data acquisition software for
+  neural sensor data.
+- Provided infrastructure support for nVidia Jetson-based hardware to
+  run the above DAQ kernel.
+- Provided support for various research programs, including an AV
+  pipeline for ML research and visualization support for neural device
+  trials.
 
 Primary technologies: Rust, Python
 
